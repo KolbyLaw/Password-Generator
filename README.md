@@ -1,23 +1,38 @@
-# User Story
+# Password Generator
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+## Project Description
 
-# Acceptance Criteria
+The challenge was to create an application using HTML, CSS, and JS that an employee could use to generate a random password based on criteria that they've selected.
+</br></br>
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+---
+
+## Table of Contents
+
+- [Installation Instructions](#Installation-Instructions)
+- [Usage Information](#Usage-Information)
+- [Contact](#Contact)
+- [Sneak Peak](#Sneak-Peak)
+
+---
+
+</br></br>
+
+## Installation Instructions
+
+None. You can run this directly in the browser!
+</br></br>
+
+## Usage Information
+
+Click the button, generate a password!
+</br></br>
+
+## Contact
+
+Questions, comments, or concerns regarding this project? Feel free to reach out to me directly via **[email](mailto:kolbytlaw@gmail.com)**, and be sure to take a look at my other work on **[GitHub](https://github.com/kolbylaw)**!
+</br></br>
+
+## Sneak Peak
+
+![image](https://user-images.githubusercontent.com/73139141/107291914-2c54f980-6a26-11eb-8f2a-32dbbea6180b.png)
